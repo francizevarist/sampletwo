@@ -5,5 +5,6 @@ main(){
 }
 
 void notifications(){}
+void messages(){}
 
 }
