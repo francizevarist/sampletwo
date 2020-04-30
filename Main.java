@@ -4,4 +4,6 @@ main(){
  //My main code
 }
 
+void notifications(){}
+
 }
